@@ -2991,6 +2991,7 @@ input, select, textarea {
 		body.is-ie .spotlights > section {
 			min-height: 0;
 		}
+		
 
 		.spotlights > section > .image {
 			background-position: left !important;
